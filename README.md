@@ -19,7 +19,7 @@ Please install softwares below and sign in the service.
 Run the script;
 
 ```
-ff.sh new-project-name
+./ff.sh new-project-name
 ```
 
 And then you can see new project in the current directory.
