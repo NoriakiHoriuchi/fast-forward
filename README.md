@@ -1,6 +1,13 @@
 # fast-forward
 Run command and then a Play Framework project be deployed immediately.
 
+## Prerequisite
+
+Please install softwares below and sign in the service.
+
+- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+- [hub](https://hub.github.com/)
+
 ## Overview
 
 - Create a new Play Framework project
