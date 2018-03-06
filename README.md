@@ -1,5 +1,5 @@
 # fast-forward
-Run command and then a Play Framework project be deployed immediately.
+Run a script and then a Play Framework project be deployed immediately.
 
 ## Prerequisite
 
@@ -16,10 +16,10 @@ Please install softwares below and sign in the service.
 
 ## Usage
 
-Run this command;
+Run the script;
 
 ```
-ff new-project
+ff.sh new-project-name
 ```
 
 And then you can see new project in the current directory.
