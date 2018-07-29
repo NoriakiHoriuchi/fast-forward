@@ -24,6 +24,9 @@ rm -rf gradle/
 rm gradlew
 rm gradlew.bat 
 
+# Remove Giter8
+rm -rf .g8/
+
 # Add settings for Play's secret
 echo "play.http.secret.key=\"changeme\"" >> conf/application.conf 
 echo "play.http.secret.key=\${?APPLICATION_SECRET}" >> conf/application.conf
